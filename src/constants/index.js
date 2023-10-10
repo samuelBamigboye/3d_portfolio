@@ -11,6 +11,7 @@ import {
   redux,
   tailwind,
   nodejs,
+  nextjs,
   mongodb,
   git,
   figma,
@@ -23,6 +24,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  postman,
 } from "../assets";
 
 export const navLinks = [
@@ -50,11 +52,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "TailwindCss",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Mobile Responsiveness",
     icon: creator,
   },
 ];
@@ -93,6 +95,10 @@ const technologies = [
     icon: nodejs,
   },
   {
+    name: "Next JS",
+    icon: nextjs,
+  },
+  {
     name: "MongoDB",
     icon: mongodb,
   },
@@ -111,6 +117,10 @@ const technologies = [
   {
     name: "docker",
     icon: docker,
+  },
+  {
+    name: "postman",
+    icon: postman,
   },
 ];
 
