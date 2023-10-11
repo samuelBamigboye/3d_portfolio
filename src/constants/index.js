@@ -125,13 +125,13 @@ const experiences = [
     title: "Front-End Developer",
     company_name: "Dthriz Limited",
     icon: tesla,
-    iconBg: "#E6DEDD",
+    iconBg: "#FFFFFF",
     date: "Feb 2018 - Apr 2020",
     points: [
       "Developing and maintaining a website using HTML, CSS and JS and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Create portals, lecturer dashboard, admin dashboard and others.",
+      "Consume API for Portal for universities and businesses, and creating new features accordingly.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
@@ -141,10 +141,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2020 - July 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React Native and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Using Figma design to create high-quality products and meeting the requirements of company.",
+      "Implementing responsive design and ensuring cross-browser compatibility using tailwindcss and modular design.",
     ],
   },
   {
@@ -154,10 +154,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Dec 2021 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React Native and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participating in seminars, tech talks, ",
     ],
   },
   {

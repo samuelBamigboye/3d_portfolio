@@ -19,8 +19,8 @@ const Hero = () => {
             Hi, I'm <span className='text-transparent bg-gradient-to-r from-[#915eff] to-[#FFA500] bg-clip-text'>Samuel <span className="hidden sm:inline">Bamigboye</span></span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals, user <br className='sm:block hidden' />
-            interfaces and web applications
+            I develop mobile responsive, user <br className='sm:block hidden' />
+            interfaces, modern dasboard for web applications.
           </p>
         </div>
       </div>
@@ -29,7 +29,7 @@ const Hero = () => {
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center mb-[-90px]'>
         <a href='#about'>
-          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2 '>
+          <div id="about" className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2 '>
             <motion.div
               animate={{
                 y: [0, 24, 0],
