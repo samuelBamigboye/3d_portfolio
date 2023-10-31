@@ -221,12 +221,12 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/samuelBamigboye/sbcars",
   },
   {
-    name: "Job IT",
+    name: "SBestate",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A real estate application that enables users to search for apartment, view estimated price ranges for each property based on their current location.",
     tags: [
       {
         name: "react",
@@ -242,7 +242,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/samuelBamigboye/sbestate",
   },
   {
     name: "Trip Guide",
@@ -263,7 +263,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/samuelBamigboye/sbtravel",
   },
 ];
 

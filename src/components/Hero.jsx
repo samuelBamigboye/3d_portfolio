@@ -19,8 +19,8 @@ const Hero = () => {
             Hi, I'm <span className='text-transparent bg-gradient-to-r from-[#915eff] to-[#FFA500] bg-clip-text'>Samuel <span className="hidden sm:inline">Bamigboye</span></span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop mobile responsive, user <br className='sm:block hidden' />
-            interfaces, modern dasboard for web applications.
+            I develop mobile responsive, user interfaces, 
+             modern dasboard for web applications using the <span className='text-transparent bg-gradient-to-r from-[#915eff] via-slate-100 to-[#FFA500] bg-clip-text'>MERN Stack.</span>
           </p>
         </div>
       </div>
@@ -29,9 +29,9 @@ const Hero = () => {
       {/* <ComputersCanvas /> */}
       
 
-      <div className='absolute xs:bottom-10 bottom-42 w-full flex justify-center items-center mt-[20px]'>
+      <div className='absolute xs:bottom-10 bottom-42 w-full  justify-center items-center mt-[20px] flex '>
         <a href='#about'>
-          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2 '>
+          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-center p-2 '>
             <motion.div
               animate={{
                 y: [0, 24, 0],
