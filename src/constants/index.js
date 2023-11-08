@@ -203,20 +203,24 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "SBcars",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "mern",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "rapidapi",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "nextjs",
         color: "pink-text-gradient",
       },
     ],
@@ -233,11 +237,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "firebase",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "MongoDB",
         color: "pink-text-gradient",
       },
     ],
@@ -245,7 +249,44 @@ const projects = [
     source_code_link: "https://github.com/samuelBamigboye/sbestate",
   },
   {
-    name: "Trip Guide",
+    name: "SBgram",
+    description:
+      "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
+    tags: [
+      {
+        name: "React JS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "appwrite",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tanstack",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "shadecn/ui",
+        color: "green-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/samuelBamigboye/sbestate",
+  },
+  {
+    name: "SBtravel",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -258,7 +299,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CRUD",
         color: "pink-text-gradient",
       },
     ],
